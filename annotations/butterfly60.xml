@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Butterfly</folder>
+	<filename>butterfly60.jpeg</filename>
+	<path>C:\Users\admin\IT3100\Butterfly\butterfly60.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>284</width>
+		<height>177</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Butterfly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>2</ymin>
+			<xmax>184</xmax>
+			<ymax>120</ymax>
+		</bndbox>
+	</object>
+</annotation>
